@@ -1,0 +1,30 @@
+{
+    "name": "Hanum Berliana Salsabila - Student Electronics Engineering",
+    "description": "Dedicated and highly motivated Electronics Engineering student with a strong enthusiasm for continuous learning and development in the electrical and electronics industry. Actively pursuing a Diploma in Electronics Engineering at Politeknik Negeri Semarang, with a growing foundation in electronic systems, circuit analysis, and control applications. Passionate about exploring hands-on projects and practical applications to deepen technical understanding. Eager to contribute in dynamic environments, sharpen skills through real-world experiences, and stay updated with current technologies in the field. Committed to becoming a proficient and impactful professional in the electronics and engineering industry",
+    "profileImage": "images/profileCV.jpg",
+    "email": "hanumberliana024@gmail.com",
+    "phone": "+62 (858) 761-96617",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/Hanum-Berliana024"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/brlna_salsaa"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv_Hanum_Berliana_Salsabila.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Basic Electronics", "icon": "fas fa-bolt", "level": 90},
+        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 60},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 60},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 80},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 60}
+    ]
+}

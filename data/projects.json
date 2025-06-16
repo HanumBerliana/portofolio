@@ -1,0 +1,39 @@
+[
+    {
+        "title": "IoT-Based Automatic Fish Feeder and Water Level Detector",
+        "year": "2023",
+        "partner": "Davindra Daffa, Maualana Ishaq, Siti Alyanabila, Ramadhani Asyraf",
+        "role": "Electronics Engineer",
+        "description": "Designed and built Feedmatic Hydro Guard, an IoT-enabled automatic fish feeder integrated with a water level monitoring system. Enabled scheduled feeding and real-time water level alerts via a mobile platform. Aimed to improve aquaculture efficiency and reduce manual intervention in fish farming operations.",
+        "image": "images/project_Feedmatic.jpg"
+        
+        
+    },
+    {
+        "title": "IoT-Based Safety Gate System on Drainage Channel",
+        "year": "2024",
+        "partner": "M. Tajul Arifin",
+        "role": "Progammer",
+        "description": "This device is an IoT-based automatic floodgate safety system that monitors water levels and automatically closes the gate during overflow. It can also be controlled remotely via the internet.",
+        "image": "images/project_bendungan.jpg"
+        
+    },
+    {
+        "title": "Modular Production System (MPS)",
+        "year": "2025",
+        "partner": "CV.Sarana Cipta Media",
+        "role": "Quality Assurance Electrical",
+        "description": "A training device designed to simulate automated manufacturing processes using pneumatic technology, stepper motors, and robotics in an integrated modular system. The system includes three main process units that comprehensively represent the stages of modern production.",
+        "image": "images/project_mps.jpg"
+       
+    },
+    {
+        
+        "title": "Autonomous Waste Sorting Robot Using Raspberry Pi 4",
+        "year": "2024",
+        "partner": "Polines Robotic Evolution (KRTMI)",
+        "role": "Electronics Engineer",
+        "description": "Designed and developed an autonomous waste sorting robot powered by Raspberry Pi 4, equipped with computer vision and sensor integration to identify and categorize waste into recyclables, organics, and non-recyclables. Utilized a camera module and machine learning algorithms for object classification, coupled with servo-controlled actuators for precise sorting. Aimed to enhance waste management efficiency and promote environmentally responsible practices through automation and intelligent material handling.",
+        "image": "images/project_robot.jpg"
+    }
+]

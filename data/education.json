@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Electronics Engineering",
+        "year": "2022 - 2025",
+        "description": "GPA 3.53 of 4.0; Focused on learning electronic circuits, control systems, and microcontroller programming through both theory and practical projects."
+    },
+    {
+        "university": "SMK Negeri 8 Semarang",
+		"logo": "images/logo-smk8.png",
+        "major": "Computer and Network Engineering",
+        "year": "2019 - 2022",
+        "description": "Focused on learning computer systems and networking, especially Mikrotik configuration and computer maintenance."
+    }
+]
