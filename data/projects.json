@@ -33,7 +33,7 @@
         "year": "2024",
         "partner": "Polines Robotic Evolution (KRTMI)",
         "role": "Electronics Engineer",
-        "description": "Designed and developed an autonomous waste sorting robot powered by Raspberry Pi 4, equipped with computer vision and sensor integration to identify and categorize waste into recyclables, organics, and non-recyclables. Utilized a camera module and machine learning algorithms for object classification, coupled with servo-controlled actuators for precise sorting. Aimed to enhance waste management efficiency and promote environmentally responsible practices through automation and intelligent material handling.",
+        "description": "Designed and developed an autonomous waste sorting robot powered by Raspberry Pi 4, equipped with computer vision and sensor integration to identify and categorize waste into recyclables, organics, and non-recyclables. Utilized a camera module and machine learning algorithms for object classification, coupled with stepper-controlled actuators for precise sorting. Aimed to enhance waste management efficiency and promote environmentally responsible practices through automation and intelligent material handling.",
         "image": "images/project_robot.jpg"
     }
 ]

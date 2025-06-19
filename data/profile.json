@@ -21,9 +21,9 @@
 	},
     "skills": [
         {"name": "Basic Electronics", "icon": "fas fa-bolt", "level": 90},
-        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 70},
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 60},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 60},
+        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 80},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 70},
 	{"name": "Project Management", "icon": "fas fa-list-check", "level": 80},
 	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 60}
     ]
