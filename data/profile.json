@@ -12,6 +12,10 @@
         {
             "platform": "Instagram",
             "url": "https://instagram.com/brlna_salsaa"
+        },
+        {
+            "platform": "Github",
+            "url": "https://https://github.com/HanumBerliana"
         }
     ],
     "cv": {
@@ -25,6 +29,7 @@
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 70},
 	{"name": "Project Management", "icon": "fas fa-list-check", "level": 80},
+    {"name": "Industrial Automation", "icon": "fas fa-industry", "level": 75},
 	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 60}
     ]
 }
